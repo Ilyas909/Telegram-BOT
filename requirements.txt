@@ -1,0 +1,6 @@
+logging
+sqlalchemy==1.4.30
+python-telegram-bot==13.7
+dateutil
+apscheduler
+datetime
